@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 <p align="center">
   <a href="https://niekvanleeuwen.nl">Website</a> •
@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/niekvleeuwen">Linkedin</a>
 </p>
 
-I am __Niek van Leeuwen__ and I'm studying __Computer Science and Engineering__ at the University of Applied Sciences in Rotterdam. I love programming and working on my [side projects](https://niekvanleeuwen.nl/projects/).
+I am __Niek van Leeuwen__ and I'm studying __Computer Science and Engineering__ at the University of Applied Sciences in Rotterdam. I enjoy programming and working on my [side projects](https://niekvanleeuwen.nl/projects/).
 
 * 💼 At the moment I am an intern at [PATS Drones](https://pats-drones.com/) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.niekvanleeuwen.nl/cv.pdf)<br/>
