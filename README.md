@@ -9,7 +9,7 @@
 I am __Niek van Leeuwen__ and I'm currently studying __Computer Science and Engineering__ at the University of Applied Sciences in Rotterdam. I enjoy programming and working on my [side projects](https://niekvanleeuwen.nl/projects/).
 
 * 💼 At the moment I am working as a Data Engineer at [AKIDA](https://akida.nl/) <br/>
-* 🔖 Discover my [Curriculum Vitae](https://www.linkedin.com/in/niekvleeuwen)<br/>
+* 🔖 Discover my [Curriculum Vitae](https://www.linkedin.com/in/niek-van-leeuwen)<br/>
 * 📫 Contact me [@niekvleeuwen](https://twitter.com/niekvleeuwen)
 
 
