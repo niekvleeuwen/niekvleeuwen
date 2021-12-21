@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://niekvanleeuwen.nl">Website</a> •
   <a href="mailto:ik@niekvanleeuwen.nl">Mail</a> •
-  <a href="https://www.linkedin.com/in/niekvleeuwen">Linkedin</a>
+  <a href="https://www.linkedin.com/in/niek-van-leeuwen">Linkedin</a>
 </p>
 
 I am __Niek van Leeuwen__ and I'm currently studying __Computer Science and Engineering__ at the University of Applied Sciences in Rotterdam. I enjoy programming and working on my [side projects](https://niekvanleeuwen.nl/projects/).
