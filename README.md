@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/niek-van-leeuwen">Linkedin</a>
 </p>
 
-Hey, I'm __Niek van Leeuwen__. In July 2022, I graduated from the Rotterdam University of Applied Sciences with a bachelor's degree in Computer Science and Engineering. During my studies, I completed internships at <a href="https://www.deltaxlab.com/">X Laboratory</a> as an Embedded Software Engineer, at <a href="https://pats-drones.com/">PATS drones</a> as a Software Engineer and at <a href="https://www.erasmusmc.nl/nl-nl/patientenzorg/create4care">Erasmus MC</a> as a Medical Device Developer. Currently, I am working as a Data Scientist @ <a href="https://www.tenderned.nl/">TenderNed</a>.
+Hey, I'm __Niek van Leeuwen__. In July 2022, I graduated from the Rotterdam University of Applied Sciences with a bachelor's degree in Computer Science and Engineering. During my studies, I completed internships at <a href="https://www.deltaxlab.com/">X Laboratory</a> as an Embedded Software Engineer, at <a href="https://pats-drones.com/">PATS drones</a> as a Software Engineer and at <a href="https://www.erasmusmc.nl/nl-nl/patientenzorg/create4care">Erasmus MC</a> as a Medical Device Developer. Currently, I am working as a Data Scientist at <a href="https://www.tenderned.nl/">TenderNed</a>.
 
 * 💼 Data Scientist at [TenderNed](https://www.tenderned.nl/) <br/>
 * 🔖 Connect with me on [LinkedIn](https://www.linkedin.com/in/niek-van-leeuwen)<br/>
